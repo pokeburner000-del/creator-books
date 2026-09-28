@@ -1,0 +1,711 @@
+Order ID,Settlement Date,Product Name,Shop Name,Commission Rate,Settled Commission,Status
+702032,2026-01-01,Retro handheld console,Pixel Peripherals,12%,23.26,Settled
+702055,2026-01-01,Anime snack box,Snack Attack Co,8%,22.30,Settled
+702060,2026-01-01,Retro handheld console,Pixel Peripherals,12%,20.38,Settled
+702028,2026-01-02,Toploaders 100-pack,CardVault Supply,10%,43.50,Settled
+702035,2026-01-02,Controller charging dock,Pixel Peripherals,12%,30.42,Settled
+702039,2026-01-02,LED desk light bar,Pixel Peripherals,15%,26.42,Settled
+702045,2026-01-02,RGB mechanical keyboard,Gamer Gear Hub,8%,36.12,Settled
+702058,2026-01-02,Toploaders 100-pack,CardVault Supply,15%,49.70,Settled
+702052,2026-01-03,Controller charging dock,Pixel Peripherals,8%,37.69,Settled
+702078,2026-01-03,Anime snack box,Snack Attack Co,10%,21.85,Settled
+702040,2026-01-04,Anime snack box,Snack Attack Co,10%,36.10,Refunded
+702044,2026-01-04,RGB mechanical keyboard,Gamer Gear Hub,15%,19.77,Refunded
+702056,2026-01-04,Wireless gaming mouse,Gamer Gear Hub,10%,14.88,Settled
+702030,2026-01-05,RGB mechanical keyboard,Gamer Gear Hub,10%,39.33,Settled
+702053,2026-01-05,Toploaders 100-pack,CardVault Supply,15%,49.28,Refunded
+702046,2026-01-06,Controller charging dock,Pixel Peripherals,8%,15.85,Settled
+702079,2026-01-07,Headset stand,Gamer Gear Hub,8%,42.10,Settled
+702080,2026-01-08,Wireless gaming mouse,Gamer Gear Hub,15%,24.25,Settled
+702041,2026-01-09,Wireless gaming mouse,Gamer Gear Hub,12%,50.52,Settled
+702065,2026-01-10,Headset stand,Gamer Gear Hub,10%,44.32,Settled
+702054,2026-01-11,9-pocket binder,CardVault Supply,15%,26.29,Settled
+702083,2026-01-13,Headset stand,Gamer Gear Hub,12%,43.64,Settled
+702029,2026-01-14,Controller charging dock,Pixel Peripherals,10%,50.24,Settled
+702036,2026-01-14,9-pocket binder,CardVault Supply,10%,49.71,Settled
+702066,2026-01-14,9-pocket binder,CardVault Supply,8%,35.59,Settled
+702081,2026-01-14,Wireless gaming mouse,Gamer Gear Hub,15%,20.74,Settled
+702050,2026-01-15,RGB mechanical keyboard,Gamer Gear Hub,10%,17.82,Settled
+702061,2026-01-15,Magnetic one-touch holders,CardVault Supply,15%,29.85,Settled
+702067,2026-01-15,Headset stand,Gamer Gear Hub,12%,40.95,Settled
+702073,2026-01-15,Anime snack box,Snack Attack Co,10%,38.70,Settled
+702076,2026-01-15,Headset stand,Gamer Gear Hub,15%,43.37,Settled
+702063,2026-01-16,Magnetic one-touch holders,CardVault Supply,8%,50.88,Settled
+702075,2026-01-16,Headset stand,Gamer Gear Hub,8%,27.35,Settled
+702051,2026-01-17,Magnetic one-touch holders,CardVault Supply,15%,22.91,Settled
+702068,2026-01-17,Wireless gaming mouse,Gamer Gear Hub,8%,45.59,Settled
+702084,2026-01-17,Anime snack box,Snack Attack Co,8%,38.40,Settled
+702027,2026-01-18,9-pocket binder,CardVault Supply,8%,39.06,Settled
+702037,2026-01-18,RGB mechanical keyboard,Gamer Gear Hub,8%,17.78,Settled
+702048,2026-01-18,RGB mechanical keyboard,Gamer Gear Hub,8%,46.09,Settled
+702047,2026-01-20,Magnetic one-touch holders,CardVault Supply,8%,20.42,Settled
+702057,2026-01-20,LED desk light bar,Pixel Peripherals,10%,41.90,Refunded
+702033,2026-01-21,LED desk light bar,Pixel Peripherals,8%,34.39,Settled
+702049,2026-01-21,Magnetic one-touch holders,CardVault Supply,15%,32.64,Settled
+702069,2026-01-22,RGB mechanical keyboard,Gamer Gear Hub,8%,46.92,Settled
+702082,2026-01-22,Controller charging dock,Pixel Peripherals,8%,33.32,Settled
+702042,2026-01-23,Headset stand,Gamer Gear Hub,15%,43.47,Settled
+702043,2026-01-23,Retro handheld console,Pixel Peripherals,8%,33.81,Settled
+702070,2026-01-23,Toploaders 100-pack,CardVault Supply,8%,28.40,Settled
+702059,2026-01-24,Anime snack box,Snack Attack Co,10%,34.41,Settled
+702077,2026-01-24,Magnetic one-touch holders,CardVault Supply,15%,22.48,Settled
+702038,2026-01-25,RGB mechanical keyboard,Gamer Gear Hub,8%,29.46,Settled
+702064,2026-01-25,Magnetic one-touch holders,CardVault Supply,8%,29.37,Settled
+702072,2026-01-25,Controller charging dock,Pixel Peripherals,8%,23.57,Settled
+702074,2026-01-25,Magnetic one-touch holders,CardVault Supply,10%,19.40,Settled
+702062,2026-01-26,Retro handheld console,Pixel Peripherals,12%,50.76,Settled
+702034,2026-01-27,Anime snack box,Snack Attack Co,12%,36.81,Settled
+702086,2026-01-28,Anime snack box,Snack Attack Co,8%,33.32,Settled
+702031,2026-01-31,9-pocket binder,CardVault Supply,15%,36.70,Settled
+702071,2026-01-31,Retro handheld console,Pixel Peripherals,10%,18.50,Settled
+702085,2026-01-31,Magnetic one-touch holders,CardVault Supply,12%,19.55,Settled
+702111,2026-02-01,Headset stand,Gamer Gear Hub,12%,43.83,Settled
+702120,2026-02-01,Headset stand,Gamer Gear Hub,8%,45.98,Settled
+702129,2026-02-01,Toploaders 100-pack,CardVault Supply,12%,30.32,Settled
+702132,2026-02-01,Headset stand,Gamer Gear Hub,10%,35.95,Settled
+702094,2026-02-02,Anime snack box,Snack Attack Co,15%,36.06,Settled
+702107,2026-02-02,Toploaders 100-pack,CardVault Supply,15%,51.30,Settled
+702108,2026-02-02,9-pocket binder,CardVault Supply,12%,50.34,Settled
+702116,2026-02-02,Retro handheld console,Pixel Peripherals,15%,47.36,Settled
+702126,2026-02-02,Wireless gaming mouse,Gamer Gear Hub,15%,29.92,Refunded
+702143,2026-02-02,Wireless gaming mouse,Gamer Gear Hub,8%,30.94,Settled
+702151,2026-02-02,9-pocket binder,CardVault Supply,12%,14.97,Settled
+702125,2026-02-03,LED desk light bar,Pixel Peripherals,8%,21.56,Settled
+702092,2026-02-04,Toploaders 100-pack,CardVault Supply,15%,43.76,Settled
+702115,2026-02-04,Anime snack box,Snack Attack Co,8%,36.60,Settled
+702095,2026-02-05,Magnetic one-touch holders,CardVault Supply,10%,20.09,Settled
+702138,2026-02-06,9-pocket binder,CardVault Supply,12%,26.59,Settled
+702103,2026-02-07,9-pocket binder,CardVault Supply,8%,36.63,Settled
+702104,2026-02-07,Wireless gaming mouse,Gamer Gear Hub,15%,37.13,Settled
+702124,2026-02-08,Anime snack box,Snack Attack Co,10%,51.25,Settled
+702112,2026-02-09,RGB mechanical keyboard,Gamer Gear Hub,15%,34.59,Settled
+702131,2026-02-09,9-pocket binder,CardVault Supply,15%,43.36,Settled
+702099,2026-02-10,Controller charging dock,Pixel Peripherals,12%,42.74,Settled
+702106,2026-02-10,Magnetic one-touch holders,CardVault Supply,15%,44.98,Settled
+702122,2026-02-10,Headset stand,Gamer Gear Hub,8%,39.23,Settled
+702130,2026-02-10,RGB mechanical keyboard,Gamer Gear Hub,10%,26.20,Settled
+702110,2026-02-11,RGB mechanical keyboard,Gamer Gear Hub,12%,51.39,Settled
+702088,2026-02-12,RGB mechanical keyboard,Gamer Gear Hub,12%,27.79,Settled
+702096,2026-02-12,Retro handheld console,Pixel Peripherals,15%,49.54,Refunded
+702144,2026-02-12,Headset stand,Gamer Gear Hub,8%,20.99,Settled
+702145,2026-02-13,Headset stand,Gamer Gear Hub,12%,27.01,Settled
+702093,2026-02-14,Controller charging dock,Pixel Peripherals,12%,23.76,Settled
+702098,2026-02-14,Controller charging dock,Pixel Peripherals,12%,32.41,Settled
+702117,2026-02-14,9-pocket binder,CardVault Supply,8%,32.97,Settled
+702113,2026-02-15,Retro handheld console,Pixel Peripherals,12%,25.58,Settled
+702091,2026-02-16,9-pocket binder,CardVault Supply,15%,33.78,Settled
+702100,2026-02-16,LED desk light bar,Pixel Peripherals,15%,24.42,Settled
+702149,2026-02-16,Anime snack box,Snack Attack Co,10%,48.15,Settled
+702123,2026-02-17,9-pocket binder,CardVault Supply,12%,35.62,Settled
+702133,2026-02-17,Toploaders 100-pack,CardVault Supply,8%,15.88,Settled
+702134,2026-02-17,Retro handheld console,Pixel Peripherals,10%,36.49,Settled
+702139,2026-02-17,Toploaders 100-pack,CardVault Supply,12%,44.21,Settled
+702140,2026-02-17,Wireless gaming mouse,Gamer Gear Hub,8%,40.10,Settled
+702146,2026-02-17,Anime snack box,Snack Attack Co,15%,18.22,Settled
+702118,2026-02-18,Controller charging dock,Pixel Peripherals,10%,22.41,Settled
+702101,2026-02-19,Retro handheld console,Pixel Peripherals,8%,40.22,Settled
+702128,2026-02-19,RGB mechanical keyboard,Gamer Gear Hub,12%,50.85,Settled
+702135,2026-02-19,Toploaders 100-pack,CardVault Supply,12%,38.35,Settled
+702109,2026-02-20,Retro handheld console,Pixel Peripherals,12%,21.16,Settled
+702142,2026-02-20,LED desk light bar,Pixel Peripherals,12%,44.04,Settled
+702141,2026-02-21,RGB mechanical keyboard,Gamer Gear Hub,10%,14.48,Settled
+702150,2026-02-21,Magnetic one-touch holders,CardVault Supply,8%,16.43,Settled
+702121,2026-02-22,RGB mechanical keyboard,Gamer Gear Hub,10%,25.16,Settled
+702136,2026-02-22,Headset stand,Gamer Gear Hub,10%,25.87,Settled
+702148,2026-02-22,Wireless gaming mouse,Gamer Gear Hub,10%,33.74,Refunded
+702087,2026-02-23,Retro handheld console,Pixel Peripherals,8%,51.39,Settled
+702105,2026-02-23,Retro handheld console,Pixel Peripherals,15%,44.97,Settled
+702089,2026-02-24,9-pocket binder,CardVault Supply,12%,36.45,Settled
+702090,2026-02-24,Controller charging dock,Pixel Peripherals,8%,35.12,Settled
+702097,2026-02-26,Headset stand,Gamer Gear Hub,12%,17.96,Settled
+702102,2026-02-26,Retro handheld console,Pixel Peripherals,10%,29.16,Settled
+702114,2026-02-27,Magnetic one-touch holders,CardVault Supply,12%,24.03,Settled
+702119,2026-02-27,Anime snack box,Snack Attack Co,12%,25.15,Settled
+702127,2026-02-27,Retro handheld console,Pixel Peripherals,12%,21.01,Settled
+702147,2026-02-27,9-pocket binder,CardVault Supply,10%,25.60,Settled
+702137,2026-02-28,Retro handheld console,Pixel Peripherals,15%,51.07,Settled
+702184,2026-03-01,Headset stand,Gamer Gear Hub,15%,37.70,Settled
+702197,2026-03-01,9-pocket binder,CardVault Supply,8%,22.00,Settled
+702191,2026-03-02,Headset stand,Gamer Gear Hub,10%,19.88,Settled
+702192,2026-03-03,Headset stand,Gamer Gear Hub,10%,49.50,Settled
+702175,2026-03-07,Magnetic one-touch holders,CardVault Supply,15%,32.45,Settled
+702180,2026-03-07,Headset stand,Gamer Gear Hub,12%,43.40,Settled
+702196,2026-03-07,9-pocket binder,CardVault Supply,8%,45.88,Settled
+702215,2026-03-07,Toploaders 100-pack,CardVault Supply,15%,30.49,Settled
+702166,2026-03-08,Toploaders 100-pack,CardVault Supply,8%,33.11,Settled
+702221,2026-03-08,Wireless gaming mouse,Gamer Gear Hub,15%,46.40,Settled
+702170,2026-03-09,Toploaders 100-pack,CardVault Supply,8%,25.27,Settled
+702199,2026-03-09,Toploaders 100-pack,CardVault Supply,10%,14.98,Settled
+702204,2026-03-09,Anime snack box,Snack Attack Co,15%,46.23,Settled
+702201,2026-03-10,Anime snack box,Snack Attack Co,12%,20.13,Settled
+702202,2026-03-10,LED desk light bar,Pixel Peripherals,8%,49.80,Settled
+702200,2026-03-11,Retro handheld console,Pixel Peripherals,12%,39.04,Refunded
+702213,2026-03-11,Anime snack box,Snack Attack Co,10%,36.07,Settled
+702162,2026-03-12,Controller charging dock,Pixel Peripherals,10%,29.72,Settled
+702181,2026-03-12,Headset stand,Gamer Gear Hub,10%,22.45,Settled
+702187,2026-03-12,Toploaders 100-pack,CardVault Supply,15%,30.99,Settled
+702167,2026-03-13,Controller charging dock,Pixel Peripherals,12%,44.40,Settled
+702172,2026-03-13,Magnetic one-touch holders,CardVault Supply,12%,30.95,Settled
+702179,2026-03-13,Retro handheld console,Pixel Peripherals,15%,26.78,Settled
+702210,2026-03-13,Headset stand,Gamer Gear Hub,12%,14.79,Settled
+702212,2026-03-13,Retro handheld console,Pixel Peripherals,8%,35.55,Settled
+702165,2026-03-14,9-pocket binder,CardVault Supply,10%,21.17,Refunded
+702182,2026-03-14,9-pocket binder,CardVault Supply,8%,46.87,Settled
+702186,2026-03-14,Anime snack box,Snack Attack Co,8%,41.96,Settled
+702207,2026-03-14,9-pocket binder,CardVault Supply,10%,44.76,Refunded
+702154,2026-03-15,Anime snack box,Snack Attack Co,10%,22.19,Settled
+702160,2026-03-15,Retro handheld console,Pixel Peripherals,8%,15.92,Settled
+702161,2026-03-15,LED desk light bar,Pixel Peripherals,10%,40.02,Settled
+702205,2026-03-15,Magnetic one-touch holders,CardVault Supply,10%,43.01,Settled
+702209,2026-03-16,LED desk light bar,Pixel Peripherals,10%,20.64,Settled
+702153,2026-03-17,Controller charging dock,Pixel Peripherals,12%,32.36,Settled
+702176,2026-03-17,Retro handheld console,Pixel Peripherals,8%,45.87,Settled
+702185,2026-03-17,Headset stand,Gamer Gear Hub,8%,16.23,Settled
+702217,2026-03-17,Anime snack box,Snack Attack Co,15%,27.95,Settled
+702173,2026-03-18,Wireless gaming mouse,Gamer Gear Hub,12%,44.91,Settled
+702194,2026-03-18,Headset stand,Gamer Gear Hub,8%,42.23,Settled
+702211,2026-03-19,RGB mechanical keyboard,Gamer Gear Hub,15%,15.14,Settled
+702163,2026-03-20,Controller charging dock,Pixel Peripherals,12%,26.40,Settled
+702168,2026-03-20,Wireless gaming mouse,Gamer Gear Hub,10%,17.12,Settled
+702195,2026-03-20,RGB mechanical keyboard,Gamer Gear Hub,15%,15.37,Settled
+702220,2026-03-20,LED desk light bar,Pixel Peripherals,12%,44.34,Settled
+702152,2026-03-21,Controller charging dock,Pixel Peripherals,8%,30.99,Settled
+702178,2026-03-21,Controller charging dock,Pixel Peripherals,12%,48.05,Settled
+702218,2026-03-21,9-pocket binder,CardVault Supply,15%,38.19,Settled
+702188,2026-03-23,9-pocket binder,CardVault Supply,8%,42.32,Settled
+702174,2026-03-24,9-pocket binder,CardVault Supply,12%,36.78,Settled
+702189,2026-03-24,Controller charging dock,Pixel Peripherals,12%,51.86,Settled
+702164,2026-03-25,RGB mechanical keyboard,Gamer Gear Hub,15%,25.42,Settled
+702203,2026-03-25,RGB mechanical keyboard,Gamer Gear Hub,15%,19.03,Settled
+702219,2026-03-25,LED desk light bar,Pixel Peripherals,10%,42.03,Settled
+702158,2026-03-26,Controller charging dock,Pixel Peripherals,15%,34.49,Settled
+702190,2026-03-26,RGB mechanical keyboard,Gamer Gear Hub,15%,50.64,Settled
+702206,2026-03-28,Controller charging dock,Pixel Peripherals,15%,41.58,Settled
+702157,2026-03-29,Wireless gaming mouse,Gamer Gear Hub,15%,18.54,Settled
+702159,2026-03-29,9-pocket binder,CardVault Supply,10%,47.84,Settled
+702198,2026-03-29,Magnetic one-touch holders,CardVault Supply,8%,42.01,Settled
+702171,2026-03-30,Wireless gaming mouse,Gamer Gear Hub,12%,28.85,Settled
+702183,2026-03-30,Anime snack box,Snack Attack Co,15%,48.44,Settled
+702193,2026-03-30,Retro handheld console,Pixel Peripherals,8%,46.44,Settled
+702214,2026-03-30,Headset stand,Gamer Gear Hub,8%,24.18,Settled
+702216,2026-03-30,LED desk light bar,Pixel Peripherals,15%,36.50,Settled
+702155,2026-03-31,Toploaders 100-pack,CardVault Supply,10%,31.29,Settled
+702156,2026-03-31,Anime snack box,Snack Attack Co,10%,34.28,Settled
+702169,2026-03-31,Retro handheld console,Pixel Peripherals,15%,35.77,Settled
+702177,2026-03-31,Anime snack box,Snack Attack Co,15%,48.30,Refunded
+702208,2026-03-31,RGB mechanical keyboard,Gamer Gear Hub,10%,34.46,Settled
+702252,2026-04-01,Magnetic one-touch holders,CardVault Supply,12%,17.29,Settled
+702266,2026-04-01,Retro handheld console,Pixel Peripherals,12%,20.76,Settled
+702279,2026-04-01,Wireless gaming mouse,Gamer Gear Hub,10%,20.71,Settled
+702262,2026-04-02,RGB mechanical keyboard,Gamer Gear Hub,12%,38.29,Settled
+702269,2026-04-02,Wireless gaming mouse,Gamer Gear Hub,10%,45.28,Settled
+702225,2026-04-03,Anime snack box,Snack Attack Co,10%,17.61,Settled
+702239,2026-04-03,Toploaders 100-pack,CardVault Supply,15%,22.04,Settled
+702248,2026-04-04,Wireless gaming mouse,Gamer Gear Hub,15%,17.80,Settled
+702291,2026-04-04,9-pocket binder,CardVault Supply,8%,37.46,Settled
+702229,2026-04-05,LED desk light bar,Pixel Peripherals,10%,46.87,Settled
+702237,2026-04-05,Anime snack box,Snack Attack Co,12%,22.50,Settled
+702275,2026-04-05,9-pocket binder,CardVault Supply,10%,24.95,Refunded
+702281,2026-04-05,Anime snack box,Snack Attack Co,12%,48.23,Settled
+702241,2026-04-06,RGB mechanical keyboard,Gamer Gear Hub,8%,41.75,Settled
+702278,2026-04-06,Headset stand,Gamer Gear Hub,15%,23.64,Settled
+702233,2026-04-07,RGB mechanical keyboard,Gamer Gear Hub,8%,34.82,Settled
+702285,2026-04-07,Anime snack box,Snack Attack Co,12%,33.74,Settled
+702294,2026-04-08,LED desk light bar,Pixel Peripherals,15%,14.70,Settled
+702232,2026-04-09,LED desk light bar,Pixel Peripherals,12%,40.18,Settled
+702242,2026-04-09,Anime snack box,Snack Attack Co,15%,23.67,Settled
+702258,2026-04-09,LED desk light bar,Pixel Peripherals,10%,49.12,Settled
+702270,2026-04-09,Anime snack box,Snack Attack Co,8%,19.05,Settled
+702296,2026-04-10,9-pocket binder,CardVault Supply,10%,38.66,Settled
+702226,2026-04-11,Controller charging dock,Pixel Peripherals,12%,35.45,Settled
+702234,2026-04-11,Headset stand,Gamer Gear Hub,8%,20.90,Settled
+702243,2026-04-12,Controller charging dock,Pixel Peripherals,10%,28.01,Settled
+702259,2026-04-12,RGB mechanical keyboard,Gamer Gear Hub,10%,37.73,Settled
+702264,2026-04-13,Wireless gaming mouse,Gamer Gear Hub,12%,15.89,Settled
+702255,2026-04-14,Headset stand,Gamer Gear Hub,8%,20.82,Settled
+702236,2026-04-15,Magnetic one-touch holders,CardVault Supply,10%,27.10,Settled
+702277,2026-04-15,RGB mechanical keyboard,Gamer Gear Hub,10%,49.31,Settled
+702283,2026-04-15,Headset stand,Gamer Gear Hub,10%,17.82,Settled
+702287,2026-04-15,Headset stand,Gamer Gear Hub,12%,19.47,Settled
+702272,2026-04-16,Toploaders 100-pack,CardVault Supply,12%,21.62,Settled
+702235,2026-04-17,Retro handheld console,Pixel Peripherals,8%,49.05,Settled
+702273,2026-04-17,Headset stand,Gamer Gear Hub,10%,32.15,Settled
+702289,2026-04-17,Anime snack box,Snack Attack Co,15%,30.03,Settled
+702230,2026-04-18,LED desk light bar,Pixel Peripherals,15%,24.98,Settled
+702246,2026-04-18,RGB mechanical keyboard,Gamer Gear Hub,12%,17.38,Settled
+702247,2026-04-18,Retro handheld console,Pixel Peripherals,15%,45.97,Settled
+702267,2026-04-18,9-pocket binder,CardVault Supply,8%,42.22,Settled
+702288,2026-04-18,Magnetic one-touch holders,CardVault Supply,10%,35.33,Refunded
+702290,2026-04-18,Retro handheld console,Pixel Peripherals,10%,37.00,Refunded
+702295,2026-04-18,Controller charging dock,Pixel Peripherals,12%,35.61,Settled
+702253,2026-04-19,Magnetic one-touch holders,CardVault Supply,12%,22.59,Settled
+702280,2026-04-19,Retro handheld console,Pixel Peripherals,12%,34.93,Settled
+702282,2026-04-19,9-pocket binder,CardVault Supply,8%,23.01,Settled
+702276,2026-04-20,Headset stand,Gamer Gear Hub,15%,41.20,Settled
+702284,2026-04-20,Wireless gaming mouse,Gamer Gear Hub,10%,39.01,Settled
+702224,2026-04-22,Retro handheld console,Pixel Peripherals,15%,20.57,Settled
+702257,2026-04-22,Toploaders 100-pack,CardVault Supply,8%,50.06,Settled
+702228,2026-04-23,Headset stand,Gamer Gear Hub,15%,19.38,Settled
+702250,2026-04-23,LED desk light bar,Pixel Peripherals,15%,30.49,Settled
+702292,2026-04-23,Magnetic one-touch holders,CardVault Supply,15%,34.12,Settled
+702227,2026-04-25,Magnetic one-touch holders,CardVault Supply,8%,28.62,Settled
+702231,2026-04-25,Controller charging dock,Pixel Peripherals,10%,27.63,Settled
+702240,2026-04-25,Magnetic one-touch holders,CardVault Supply,12%,25.24,Settled
+702249,2026-04-25,Retro handheld console,Pixel Peripherals,8%,18.66,Settled
+702256,2026-04-25,Magnetic one-touch holders,CardVault Supply,15%,46.40,Settled
+702260,2026-04-25,Wireless gaming mouse,Gamer Gear Hub,15%,44.04,Settled
+702223,2026-04-26,Headset stand,Gamer Gear Hub,15%,43.58,Settled
+702263,2026-04-26,Headset stand,Gamer Gear Hub,10%,30.83,Settled
+702286,2026-04-26,Wireless gaming mouse,Gamer Gear Hub,15%,33.84,Settled
+702245,2026-04-27,Toploaders 100-pack,CardVault Supply,15%,26.65,Settled
+702251,2026-04-27,Controller charging dock,Pixel Peripherals,10%,24.30,Settled
+702261,2026-04-27,Headset stand,Gamer Gear Hub,10%,39.32,Settled
+702222,2026-04-28,Headset stand,Gamer Gear Hub,12%,48.62,Settled
+702244,2026-04-28,Retro handheld console,Pixel Peripherals,8%,45.51,Settled
+702265,2026-04-28,Controller charging dock,Pixel Peripherals,12%,49.86,Settled
+702293,2026-04-28,Toploaders 100-pack,CardVault Supply,15%,18.17,Settled
+702254,2026-04-29,9-pocket binder,CardVault Supply,8%,15.77,Settled
+702268,2026-04-29,Retro handheld console,Pixel Peripherals,12%,26.14,Refunded
+702271,2026-04-29,Controller charging dock,Pixel Peripherals,10%,36.07,Settled
+702274,2026-04-29,Headset stand,Gamer Gear Hub,15%,19.19,Settled
+702238,2026-04-30,Retro handheld console,Pixel Peripherals,15%,50.13,Settled
+702376,2026-05-01,Wireless gaming mouse,Gamer Gear Hub,12%,20.75,Settled
+702312,2026-05-03,9-pocket binder,CardVault Supply,10%,18.25,Settled
+702338,2026-05-03,RGB mechanical keyboard,Gamer Gear Hub,15%,39.74,Settled
+702317,2026-05-06,Retro handheld console,Pixel Peripherals,8%,42.75,Settled
+702298,2026-05-07,Controller charging dock,Pixel Peripherals,15%,24.44,Settled
+702304,2026-05-07,Wireless gaming mouse,Gamer Gear Hub,10%,51.73,Settled
+702314,2026-05-07,LED desk light bar,Pixel Peripherals,12%,24.54,Settled
+702321,2026-05-07,LED desk light bar,Pixel Peripherals,10%,19.71,Settled
+702297,2026-05-08,Wireless gaming mouse,Gamer Gear Hub,12%,36.24,Settled
+702313,2026-05-08,Wireless gaming mouse,Gamer Gear Hub,10%,32.60,Settled
+702343,2026-05-08,Retro handheld console,Pixel Peripherals,8%,21.54,Settled
+702355,2026-05-08,Magnetic one-touch holders,CardVault Supply,8%,31.28,Settled
+702311,2026-05-09,Magnetic one-touch holders,CardVault Supply,10%,15.47,Settled
+702323,2026-05-09,Controller charging dock,Pixel Peripherals,12%,24.65,Settled
+702331,2026-05-09,Controller charging dock,Pixel Peripherals,8%,24.26,Settled
+702332,2026-05-09,Controller charging dock,Pixel Peripherals,10%,42.71,Settled
+702367,2026-05-09,RGB mechanical keyboard,Gamer Gear Hub,15%,19.57,Settled
+702318,2026-05-10,Anime snack box,Snack Attack Co,15%,50.29,Settled
+702369,2026-05-10,Magnetic one-touch holders,CardVault Supply,15%,49.72,Settled
+702324,2026-05-11,LED desk light bar,Pixel Peripherals,15%,47.79,Settled
+702345,2026-05-11,Retro handheld console,Pixel Peripherals,10%,23.72,Settled
+702357,2026-05-11,LED desk light bar,Pixel Peripherals,8%,26.79,Settled
+702362,2026-05-11,LED desk light bar,Pixel Peripherals,15%,32.25,Settled
+702301,2026-05-12,Wireless gaming mouse,Gamer Gear Hub,15%,17.71,Settled
+702316,2026-05-12,RGB mechanical keyboard,Gamer Gear Hub,15%,16.35,Settled
+702342,2026-05-12,RGB mechanical keyboard,Gamer Gear Hub,12%,25.50,Settled
+702339,2026-05-13,Headset stand,Gamer Gear Hub,10%,25.48,Settled
+702371,2026-05-13,RGB mechanical keyboard,Gamer Gear Hub,12%,51.52,Settled
+702326,2026-05-14,Headset stand,Gamer Gear Hub,10%,16.50,Settled
+702335,2026-05-14,Wireless gaming mouse,Gamer Gear Hub,12%,25.44,Settled
+702336,2026-05-14,Anime snack box,Snack Attack Co,10%,47.95,Settled
+702341,2026-05-14,Wireless gaming mouse,Gamer Gear Hub,10%,43.30,Settled
+702364,2026-05-14,Headset stand,Gamer Gear Hub,15%,41.81,Settled
+702315,2026-05-16,Retro handheld console,Pixel Peripherals,10%,38.39,Settled
+702348,2026-05-16,LED desk light bar,Pixel Peripherals,15%,49.62,Settled
+702325,2026-05-17,Retro handheld console,Pixel Peripherals,15%,34.93,Settled
+702329,2026-05-17,9-pocket binder,CardVault Supply,10%,33.09,Settled
+702344,2026-05-17,Headset stand,Gamer Gear Hub,10%,27.57,Settled
+702299,2026-05-18,Anime snack box,Snack Attack Co,10%,35.63,Settled
+702300,2026-05-18,Toploaders 100-pack,CardVault Supply,15%,25.78,Settled
+702303,2026-05-18,Anime snack box,Snack Attack Co,10%,28.44,Settled
+702308,2026-05-18,Headset stand,Gamer Gear Hub,15%,34.22,Settled
+702347,2026-05-18,LED desk light bar,Pixel Peripherals,10%,14.69,Settled
+702365,2026-05-18,LED desk light bar,Pixel Peripherals,15%,33.58,Settled
+702351,2026-05-19,9-pocket binder,CardVault Supply,12%,14.33,Settled
+702373,2026-05-19,Headset stand,Gamer Gear Hub,15%,51.47,Settled
+702374,2026-05-19,Toploaders 100-pack,CardVault Supply,10%,25.06,Settled
+702322,2026-05-20,Wireless gaming mouse,Gamer Gear Hub,12%,27.59,Settled
+702330,2026-05-20,LED desk light bar,Pixel Peripherals,12%,45.71,Settled
+702334,2026-05-20,Controller charging dock,Pixel Peripherals,10%,42.29,Settled
+702363,2026-05-20,RGB mechanical keyboard,Gamer Gear Hub,8%,51.10,Settled
+702370,2026-05-20,Retro handheld console,Pixel Peripherals,10%,16.54,Settled
+702358,2026-05-21,Wireless gaming mouse,Gamer Gear Hub,8%,44.77,Settled
+702310,2026-05-22,9-pocket binder,CardVault Supply,15%,43.16,Refunded
+702328,2026-05-22,Wireless gaming mouse,Gamer Gear Hub,8%,26.80,Settled
+702337,2026-05-22,Wireless gaming mouse,Gamer Gear Hub,8%,26.61,Settled
+702349,2026-05-22,Magnetic one-touch holders,CardVault Supply,12%,50.37,Settled
+702361,2026-05-22,Wireless gaming mouse,Gamer Gear Hub,15%,18.18,Settled
+702346,2026-05-23,RGB mechanical keyboard,Gamer Gear Hub,15%,33.02,Settled
+702352,2026-05-23,Controller charging dock,Pixel Peripherals,10%,24.67,Settled
+702306,2026-05-24,RGB mechanical keyboard,Gamer Gear Hub,12%,21.38,Settled
+702309,2026-05-24,Anime snack box,Snack Attack Co,12%,20.96,Settled
+702354,2026-05-24,Headset stand,Gamer Gear Hub,15%,19.81,Settled
+702320,2026-05-25,Retro handheld console,Pixel Peripherals,12%,19.61,Settled
+702366,2026-05-25,Magnetic one-touch holders,CardVault Supply,12%,20.55,Settled
+702356,2026-05-26,LED desk light bar,Pixel Peripherals,8%,39.38,Settled
+702360,2026-05-26,Controller charging dock,Pixel Peripherals,15%,23.55,Settled
+702372,2026-05-26,Headset stand,Gamer Gear Hub,15%,37.42,Settled
+702302,2026-05-27,9-pocket binder,CardVault Supply,12%,42.32,Settled
+702368,2026-05-27,9-pocket binder,CardVault Supply,12%,45.68,Settled
+702307,2026-05-28,Retro handheld console,Pixel Peripherals,10%,35.57,Settled
+702350,2026-05-28,Magnetic one-touch holders,CardVault Supply,15%,38.49,Settled
+702353,2026-05-28,RGB mechanical keyboard,Gamer Gear Hub,8%,38.28,Settled
+702327,2026-05-29,9-pocket binder,CardVault Supply,15%,21.06,Settled
+702333,2026-05-30,Retro handheld console,Pixel Peripherals,12%,32.73,Settled
+702305,2026-05-31,Anime snack box,Snack Attack Co,8%,42.07,Settled
+702319,2026-05-31,Magnetic one-touch holders,CardVault Supply,10%,23.78,Settled
+702340,2026-05-31,Anime snack box,Snack Attack Co,15%,28.48,Settled
+702359,2026-05-31,Wireless gaming mouse,Gamer Gear Hub,12%,30.25,Settled
+702375,2026-05-31,Retro handheld console,Pixel Peripherals,12%,29.62,Settled
+702381,2026-06-01,RGB mechanical keyboard,Gamer Gear Hub,15%,40.33,Settled
+702394,2026-06-01,LED desk light bar,Pixel Peripherals,10%,37.99,Settled
+702430,2026-06-01,Headset stand,Gamer Gear Hub,8%,50.01,Settled
+702443,2026-06-01,LED desk light bar,Pixel Peripherals,15%,22.04,Settled
+702451,2026-06-01,LED desk light bar,Pixel Peripherals,15%,24.02,Settled
+702458,2026-06-01,Anime snack box,Snack Attack Co,12%,40.10,Settled
+702395,2026-06-02,RGB mechanical keyboard,Gamer Gear Hub,10%,44.64,Settled
+702424,2026-06-02,Anime snack box,Snack Attack Co,8%,45.96,Settled
+702447,2026-06-02,Controller charging dock,Pixel Peripherals,10%,39.46,Settled
+702448,2026-06-02,Controller charging dock,Pixel Peripherals,15%,36.07,Settled
+702383,2026-06-03,Headset stand,Gamer Gear Hub,10%,33.77,Settled
+702397,2026-06-03,RGB mechanical keyboard,Gamer Gear Hub,8%,16.46,Settled
+702435,2026-06-03,Magnetic one-touch holders,CardVault Supply,10%,28.42,Settled
+702409,2026-06-05,RGB mechanical keyboard,Gamer Gear Hub,12%,48.09,Settled
+702439,2026-06-05,Anime snack box,Snack Attack Co,15%,47.37,Settled
+702389,2026-06-06,Wireless gaming mouse,Gamer Gear Hub,15%,22.04,Settled
+702401,2026-06-06,9-pocket binder,CardVault Supply,10%,26.06,Settled
+702408,2026-06-06,Toploaders 100-pack,CardVault Supply,12%,48.65,Settled
+702436,2026-06-06,RGB mechanical keyboard,Gamer Gear Hub,10%,21.61,Settled
+702454,2026-06-06,Toploaders 100-pack,CardVault Supply,15%,29.88,Settled
+702382,2026-06-07,9-pocket binder,CardVault Supply,10%,20.55,Settled
+702407,2026-06-07,Headset stand,Gamer Gear Hub,15%,48.88,Settled
+702437,2026-06-07,Controller charging dock,Pixel Peripherals,15%,29.22,Settled
+702461,2026-06-07,Wireless gaming mouse,Gamer Gear Hub,12%,40.55,Settled
+702410,2026-06-08,Retro handheld console,Pixel Peripherals,15%,44.33,Settled
+702414,2026-06-08,Magnetic one-touch holders,CardVault Supply,12%,51.61,Settled
+702442,2026-06-08,9-pocket binder,CardVault Supply,15%,45.81,Settled
+702388,2026-06-09,Headset stand,Gamer Gear Hub,8%,15.22,Settled
+702402,2026-06-09,LED desk light bar,Pixel Peripherals,8%,25.18,Settled
+702428,2026-06-09,Retro handheld console,Pixel Peripherals,10%,36.67,Settled
+702429,2026-06-09,Controller charging dock,Pixel Peripherals,12%,37.34,Settled
+702444,2026-06-10,Anime snack box,Snack Attack Co,12%,43.39,Settled
+702446,2026-06-10,Wireless gaming mouse,Gamer Gear Hub,15%,50.63,Settled
+702377,2026-06-11,9-pocket binder,CardVault Supply,8%,28.64,Settled
+702386,2026-06-11,Magnetic one-touch holders,CardVault Supply,10%,17.85,Settled
+702416,2026-06-11,Wireless gaming mouse,Gamer Gear Hub,12%,16.78,Settled
+702450,2026-06-11,Headset stand,Gamer Gear Hub,10%,19.86,Settled
+702404,2026-06-12,Anime snack box,Snack Attack Co,8%,45.92,Settled
+702405,2026-06-12,Anime snack box,Snack Attack Co,8%,48.59,Settled
+702417,2026-06-12,Headset stand,Gamer Gear Hub,10%,48.41,Settled
+702421,2026-06-12,Magnetic one-touch holders,CardVault Supply,15%,23.30,Settled
+702441,2026-06-12,LED desk light bar,Pixel Peripherals,15%,21.80,Settled
+702391,2026-06-13,RGB mechanical keyboard,Gamer Gear Hub,8%,22.82,Settled
+702427,2026-06-13,Magnetic one-touch holders,CardVault Supply,8%,32.21,Settled
+702460,2026-06-14,RGB mechanical keyboard,Gamer Gear Hub,8%,34.28,Refunded
+702406,2026-06-15,9-pocket binder,CardVault Supply,12%,49.99,Settled
+702433,2026-06-15,9-pocket binder,CardVault Supply,15%,29.75,Settled
+702379,2026-06-16,9-pocket binder,CardVault Supply,8%,38.08,Settled
+702423,2026-06-16,Magnetic one-touch holders,CardVault Supply,10%,46.95,Settled
+702380,2026-06-17,Controller charging dock,Pixel Peripherals,15%,34.61,Settled
+702392,2026-06-17,Headset stand,Gamer Gear Hub,12%,31.00,Settled
+702445,2026-06-17,LED desk light bar,Pixel Peripherals,15%,34.62,Settled
+702459,2026-06-17,Anime snack box,Snack Attack Co,8%,39.19,Settled
+702387,2026-06-18,RGB mechanical keyboard,Gamer Gear Hub,8%,15.28,Settled
+702420,2026-06-19,Toploaders 100-pack,CardVault Supply,10%,42.63,Settled
+702434,2026-06-19,Headset stand,Gamer Gear Hub,10%,16.16,Settled
+702400,2026-06-20,Retro handheld console,Pixel Peripherals,15%,39.93,Settled
+702438,2026-06-20,Retro handheld console,Pixel Peripherals,12%,47.63,Settled
+702440,2026-06-20,Toploaders 100-pack,CardVault Supply,8%,15.44,Settled
+702457,2026-06-20,LED desk light bar,Pixel Peripherals,8%,49.36,Settled
+702378,2026-06-21,Headset stand,Gamer Gear Hub,10%,42.03,Settled
+702385,2026-06-21,Wireless gaming mouse,Gamer Gear Hub,15%,40.27,Settled
+702399,2026-06-21,Retro handheld console,Pixel Peripherals,8%,47.28,Settled
+702425,2026-06-21,RGB mechanical keyboard,Gamer Gear Hub,12%,38.16,Settled
+702456,2026-06-21,9-pocket binder,CardVault Supply,15%,31.07,Settled
+702431,2026-06-22,Retro handheld console,Pixel Peripherals,8%,30.55,Settled
+702449,2026-06-22,Retro handheld console,Pixel Peripherals,8%,22.59,Settled
+702413,2026-06-23,Wireless gaming mouse,Gamer Gear Hub,8%,40.75,Settled
+702415,2026-06-23,Anime snack box,Snack Attack Co,8%,39.83,Settled
+702390,2026-06-24,Headset stand,Gamer Gear Hub,12%,21.24,Settled
+702396,2026-06-24,Headset stand,Gamer Gear Hub,8%,45.84,Settled
+702398,2026-06-24,Retro handheld console,Pixel Peripherals,12%,14.08,Settled
+702432,2026-06-24,Wireless gaming mouse,Gamer Gear Hub,12%,27.59,Settled
+702455,2026-06-24,Headset stand,Gamer Gear Hub,12%,29.55,Settled
+702384,2026-06-26,9-pocket binder,CardVault Supply,15%,24.54,Settled
+702411,2026-06-26,Wireless gaming mouse,Gamer Gear Hub,10%,16.94,Settled
+702412,2026-06-26,RGB mechanical keyboard,Gamer Gear Hub,12%,14.79,Settled
+702419,2026-06-26,RGB mechanical keyboard,Gamer Gear Hub,15%,27.28,Settled
+702426,2026-06-26,Controller charging dock,Pixel Peripherals,15%,40.19,Settled
+702453,2026-06-27,Magnetic one-touch holders,CardVault Supply,12%,36.83,Settled
+702393,2026-06-28,Wireless gaming mouse,Gamer Gear Hub,8%,36.77,Settled
+702403,2026-06-28,Headset stand,Gamer Gear Hub,8%,29.59,Settled
+702452,2026-06-28,Headset stand,Gamer Gear Hub,8%,38.09,Settled
+702418,2026-06-29,Headset stand,Gamer Gear Hub,10%,23.02,Settled
+702422,2026-06-30,Wireless gaming mouse,Gamer Gear Hub,12%,28.91,Settled
+702475,2026-07-01,Retro handheld console,Pixel Peripherals,8%,51.51,Settled
+702495,2026-07-01,RGB mechanical keyboard,Gamer Gear Hub,8%,38.03,Settled
+702496,2026-07-01,Headset stand,Gamer Gear Hub,12%,16.27,Settled
+702498,2026-07-01,9-pocket binder,CardVault Supply,12%,35.83,Settled
+702531,2026-07-01,Headset stand,Gamer Gear Hub,8%,46.03,Settled
+702528,2026-07-02,Magnetic one-touch holders,CardVault Supply,12%,46.89,Settled
+702537,2026-07-02,Retro handheld console,Pixel Peripherals,8%,43.01,Settled
+702462,2026-07-03,RGB mechanical keyboard,Gamer Gear Hub,8%,16.78,Refunded
+702532,2026-07-03,Retro handheld console,Pixel Peripherals,8%,44.02,Settled
+702465,2026-07-04,Retro handheld console,Pixel Peripherals,8%,31.60,Settled
+702500,2026-07-04,Wireless gaming mouse,Gamer Gear Hub,8%,44.69,Settled
+702473,2026-07-05,Toploaders 100-pack,CardVault Supply,12%,39.05,Settled
+702479,2026-07-05,RGB mechanical keyboard,Gamer Gear Hub,8%,31.54,Settled
+702488,2026-07-05,Headset stand,Gamer Gear Hub,10%,47.38,Settled
+702516,2026-07-05,Anime snack box,Snack Attack Co,8%,35.71,Settled
+702463,2026-07-06,Magnetic one-touch holders,CardVault Supply,12%,19.18,Refunded
+702472,2026-07-06,RGB mechanical keyboard,Gamer Gear Hub,12%,33.41,Settled
+702470,2026-07-07,Magnetic one-touch holders,CardVault Supply,12%,31.43,Settled
+702476,2026-07-07,Controller charging dock,Pixel Peripherals,15%,16.67,Settled
+702501,2026-07-07,Toploaders 100-pack,CardVault Supply,10%,51.12,Settled
+702506,2026-07-07,Retro handheld console,Pixel Peripherals,10%,16.07,Settled
+702514,2026-07-07,Retro handheld console,Pixel Peripherals,10%,24.67,Settled
+702509,2026-07-08,9-pocket binder,CardVault Supply,12%,34.40,Settled
+702515,2026-07-08,Controller charging dock,Pixel Peripherals,10%,44.39,Settled
+702482,2026-07-09,Magnetic one-touch holders,CardVault Supply,10%,39.09,Settled
+702546,2026-07-09,Retro handheld console,Pixel Peripherals,15%,51.96,Settled
+702493,2026-07-10,RGB mechanical keyboard,Gamer Gear Hub,10%,24.27,Settled
+702540,2026-07-10,Toploaders 100-pack,CardVault Supply,12%,35.55,Settled
+702549,2026-07-10,9-pocket binder,CardVault Supply,8%,33.42,Settled
+702466,2026-07-11,Controller charging dock,Pixel Peripherals,15%,50.61,Settled
+702523,2026-07-11,Magnetic one-touch holders,CardVault Supply,12%,41.48,Settled
+702545,2026-07-11,9-pocket binder,CardVault Supply,10%,37.86,Settled
+702469,2026-07-12,Magnetic one-touch holders,CardVault Supply,15%,51.72,Settled
+702487,2026-07-12,Anime snack box,Snack Attack Co,8%,20.06,Settled
+702504,2026-07-12,Toploaders 100-pack,CardVault Supply,10%,25.84,Settled
+702510,2026-07-12,Wireless gaming mouse,Gamer Gear Hub,15%,16.74,Settled
+702520,2026-07-12,LED desk light bar,Pixel Peripherals,8%,37.79,Settled
+702547,2026-07-12,Headset stand,Gamer Gear Hub,12%,50.08,Settled
+702492,2026-07-13,Headset stand,Gamer Gear Hub,12%,34.99,Settled
+702503,2026-07-14,Retro handheld console,Pixel Peripherals,10%,28.89,Settled
+702522,2026-07-14,Wireless gaming mouse,Gamer Gear Hub,8%,15.09,Settled
+702518,2026-07-15,9-pocket binder,CardVault Supply,15%,34.60,Settled
+702526,2026-07-15,Headset stand,Gamer Gear Hub,15%,51.15,Settled
+702481,2026-07-16,Retro handheld console,Pixel Peripherals,10%,35.51,Settled
+702517,2026-07-16,LED desk light bar,Pixel Peripherals,10%,30.88,Settled
+702525,2026-07-16,Wireless gaming mouse,Gamer Gear Hub,15%,31.79,Settled
+702535,2026-07-16,Wireless gaming mouse,Gamer Gear Hub,10%,48.32,Refunded
+702467,2026-07-17,Anime snack box,Snack Attack Co,15%,45.60,Refunded
+702497,2026-07-17,Magnetic one-touch holders,CardVault Supply,8%,32.80,Settled
+702548,2026-07-17,Magnetic one-touch holders,CardVault Supply,10%,38.33,Settled
+702483,2026-07-18,Anime snack box,Snack Attack Co,12%,17.71,Settled
+702499,2026-07-19,Toploaders 100-pack,CardVault Supply,10%,34.59,Settled
+702507,2026-07-19,Headset stand,Gamer Gear Hub,8%,35.56,Settled
+702511,2026-07-19,Controller charging dock,Pixel Peripherals,15%,48.21,Settled
+702513,2026-07-19,Magnetic one-touch holders,CardVault Supply,10%,44.22,Settled
+702538,2026-07-19,Magnetic one-touch holders,CardVault Supply,8%,25.32,Settled
+702543,2026-07-19,RGB mechanical keyboard,Gamer Gear Hub,10%,16.99,Refunded
+702464,2026-07-20,Retro handheld console,Pixel Peripherals,10%,43.17,Settled
+702486,2026-07-20,Controller charging dock,Pixel Peripherals,15%,43.01,Settled
+702544,2026-07-20,Magnetic one-touch holders,CardVault Supply,12%,19.35,Settled
+702551,2026-07-20,Retro handheld console,Pixel Peripherals,8%,19.28,Settled
+702471,2026-07-21,Toploaders 100-pack,CardVault Supply,10%,35.97,Settled
+702527,2026-07-21,Headset stand,Gamer Gear Hub,12%,43.39,Settled
+702529,2026-07-21,Toploaders 100-pack,CardVault Supply,10%,15.51,Settled
+702530,2026-07-21,Headset stand,Gamer Gear Hub,12%,38.69,Settled
+702490,2026-07-22,Magnetic one-touch holders,CardVault Supply,10%,28.67,Settled
+702542,2026-07-22,Anime snack box,Snack Attack Co,15%,34.64,Settled
+702502,2026-07-23,RGB mechanical keyboard,Gamer Gear Hub,12%,37.74,Refunded
+702541,2026-07-23,Retro handheld console,Pixel Peripherals,12%,29.35,Settled
+702477,2026-07-25,Magnetic one-touch holders,CardVault Supply,10%,35.94,Settled
+702478,2026-07-25,RGB mechanical keyboard,Gamer Gear Hub,10%,35.06,Settled
+702484,2026-07-25,Headset stand,Gamer Gear Hub,10%,17.40,Settled
+702508,2026-07-25,Controller charging dock,Pixel Peripherals,8%,30.16,Settled
+702521,2026-07-26,Controller charging dock,Pixel Peripherals,12%,23.99,Settled
+702485,2026-07-27,9-pocket binder,CardVault Supply,12%,28.02,Refunded
+702505,2026-07-28,Wireless gaming mouse,Gamer Gear Hub,10%,24.76,Settled
+702512,2026-07-28,Controller charging dock,Pixel Peripherals,12%,24.56,Settled
+702533,2026-07-28,Magnetic one-touch holders,CardVault Supply,15%,14.64,Settled
+702534,2026-07-28,9-pocket binder,CardVault Supply,12%,25.82,Settled
+702539,2026-07-28,Anime snack box,Snack Attack Co,12%,24.28,Settled
+702550,2026-07-28,Controller charging dock,Pixel Peripherals,8%,44.88,Settled
+702491,2026-07-29,Magnetic one-touch holders,CardVault Supply,8%,43.78,Settled
+702536,2026-07-29,Magnetic one-touch holders,CardVault Supply,12%,27.61,Settled
+702474,2026-07-30,Anime snack box,Snack Attack Co,10%,14.82,Settled
+702480,2026-07-30,Controller charging dock,Pixel Peripherals,12%,38.52,Settled
+702494,2026-07-30,9-pocket binder,CardVault Supply,15%,24.25,Settled
+702519,2026-07-30,Anime snack box,Snack Attack Co,15%,19.08,Settled
+702468,2026-07-31,Headset stand,Gamer Gear Hub,15%,24.71,Settled
+702489,2026-07-31,Wireless gaming mouse,Gamer Gear Hub,15%,31.14,Settled
+702524,2026-07-31,9-pocket binder,CardVault Supply,15%,24.64,Settled
+702554,2026-08-01,Controller charging dock,Pixel Peripherals,8%,33.50,Settled
+702580,2026-08-01,RGB mechanical keyboard,Gamer Gear Hub,12%,31.81,Settled
+702588,2026-08-01,Headset stand,Gamer Gear Hub,10%,32.21,Settled
+702628,2026-08-01,Retro handheld console,Pixel Peripherals,10%,29.19,Settled
+702557,2026-08-02,Wireless gaming mouse,Gamer Gear Hub,15%,20.03,Settled
+702602,2026-08-02,RGB mechanical keyboard,Gamer Gear Hub,10%,38.04,Settled
+702608,2026-08-02,Magnetic one-touch holders,CardVault Supply,12%,16.38,Settled
+702619,2026-08-02,Toploaders 100-pack,CardVault Supply,10%,39.89,Settled
+702632,2026-08-02,Toploaders 100-pack,CardVault Supply,12%,48.79,Refunded
+702641,2026-08-02,Headset stand,Gamer Gear Hub,10%,20.49,Settled
+702561,2026-08-03,LED desk light bar,Pixel Peripherals,12%,47.30,Settled
+702635,2026-08-03,Anime snack box,Snack Attack Co,12%,46.36,Settled
+702616,2026-08-04,Magnetic one-touch holders,CardVault Supply,8%,30.47,Settled
+702576,2026-08-05,Wireless gaming mouse,Gamer Gear Hub,15%,49.99,Settled
+702587,2026-08-05,LED desk light bar,Pixel Peripherals,8%,20.45,Settled
+702605,2026-08-05,Controller charging dock,Pixel Peripherals,15%,43.47,Settled
+702626,2026-08-05,Retro handheld console,Pixel Peripherals,12%,16.06,Settled
+702578,2026-08-06,Headset stand,Gamer Gear Hub,8%,21.02,Settled
+702593,2026-08-06,Magnetic one-touch holders,CardVault Supply,10%,18.88,Settled
+702630,2026-08-06,Toploaders 100-pack,CardVault Supply,8%,27.38,Refunded
+702618,2026-08-07,Controller charging dock,Pixel Peripherals,10%,41.75,Refunded
+702639,2026-08-07,Magnetic one-touch holders,CardVault Supply,15%,30.09,Settled
+702644,2026-08-07,Anime snack box,Snack Attack Co,15%,22.22,Settled
+702566,2026-08-08,LED desk light bar,Pixel Peripherals,12%,35.20,Settled
+702623,2026-08-08,Controller charging dock,Pixel Peripherals,15%,37.15,Settled
+702555,2026-08-09,Anime snack box,Snack Attack Co,10%,42.12,Refunded
+702562,2026-08-09,Wireless gaming mouse,Gamer Gear Hub,15%,46.31,Settled
+702600,2026-08-09,Magnetic one-touch holders,CardVault Supply,8%,35.61,Settled
+702643,2026-08-09,Magnetic one-touch holders,CardVault Supply,15%,24.47,Settled
+702581,2026-08-10,Controller charging dock,Pixel Peripherals,15%,36.41,Settled
+702585,2026-08-10,Anime snack box,Snack Attack Co,8%,25.48,Settled
+702612,2026-08-11,RGB mechanical keyboard,Gamer Gear Hub,12%,39.19,Settled
+702560,2026-08-12,9-pocket binder,CardVault Supply,10%,45.73,Settled
+702572,2026-08-12,RGB mechanical keyboard,Gamer Gear Hub,15%,48.73,Settled
+702586,2026-08-12,Wireless gaming mouse,Gamer Gear Hub,8%,18.94,Settled
+702592,2026-08-12,Magnetic one-touch holders,CardVault Supply,15%,47.59,Settled
+702604,2026-08-12,Retro handheld console,Pixel Peripherals,10%,26.36,Settled
+702563,2026-08-13,9-pocket binder,CardVault Supply,15%,25.71,Settled
+702595,2026-08-13,Controller charging dock,Pixel Peripherals,12%,51.90,Settled
+702571,2026-08-14,Magnetic one-touch holders,CardVault Supply,12%,51.12,Settled
+702584,2026-08-14,Magnetic one-touch holders,CardVault Supply,15%,15.20,Settled
+702633,2026-08-14,Toploaders 100-pack,CardVault Supply,10%,51.11,Settled
+702609,2026-08-15,Anime snack box,Snack Attack Co,15%,27.84,Settled
+702556,2026-08-16,Toploaders 100-pack,CardVault Supply,15%,25.01,Settled
+702570,2026-08-16,9-pocket binder,CardVault Supply,8%,30.79,Settled
+702599,2026-08-17,RGB mechanical keyboard,Gamer Gear Hub,8%,46.50,Settled
+702606,2026-08-17,Controller charging dock,Pixel Peripherals,10%,20.52,Settled
+702611,2026-08-17,Wireless gaming mouse,Gamer Gear Hub,12%,26.38,Settled
+702631,2026-08-17,RGB mechanical keyboard,Gamer Gear Hub,15%,42.18,Settled
+702596,2026-08-18,Wireless gaming mouse,Gamer Gear Hub,12%,27.33,Settled
+702613,2026-08-18,9-pocket binder,CardVault Supply,15%,26.46,Settled
+702636,2026-08-18,9-pocket binder,CardVault Supply,8%,21.21,Settled
+702601,2026-08-19,Wireless gaming mouse,Gamer Gear Hub,8%,34.25,Settled
+702624,2026-08-19,Controller charging dock,Pixel Peripherals,12%,27.09,Settled
+702625,2026-08-19,9-pocket binder,CardVault Supply,15%,48.61,Settled
+702627,2026-08-19,Headset stand,Gamer Gear Hub,10%,44.50,Settled
+702564,2026-08-20,LED desk light bar,Pixel Peripherals,12%,16.59,Refunded
+702621,2026-08-20,LED desk light bar,Pixel Peripherals,15%,36.32,Settled
+702629,2026-08-20,Toploaders 100-pack,CardVault Supply,10%,32.99,Settled
+702569,2026-08-21,RGB mechanical keyboard,Gamer Gear Hub,15%,24.73,Settled
+702603,2026-08-21,Magnetic one-touch holders,CardVault Supply,15%,34.80,Settled
+702615,2026-08-21,Anime snack box,Snack Attack Co,15%,21.44,Settled
+702617,2026-08-21,Magnetic one-touch holders,CardVault Supply,12%,26.71,Settled
+702552,2026-08-22,Magnetic one-touch holders,CardVault Supply,12%,32.04,Refunded
+702565,2026-08-22,Controller charging dock,Pixel Peripherals,15%,38.08,Settled
+702579,2026-08-22,LED desk light bar,Pixel Peripherals,8%,50.13,Settled
+702594,2026-08-23,Wireless gaming mouse,Gamer Gear Hub,15%,16.84,Settled
+702620,2026-08-23,Toploaders 100-pack,CardVault Supply,10%,37.32,Settled
+702646,2026-08-23,Wireless gaming mouse,Gamer Gear Hub,10%,16.38,Settled
+702582,2026-08-24,Retro handheld console,Pixel Peripherals,10%,15.90,Settled
+702590,2026-08-24,Controller charging dock,Pixel Peripherals,10%,43.64,Settled
+702591,2026-08-24,9-pocket binder,CardVault Supply,12%,47.32,Settled
+702598,2026-08-24,Wireless gaming mouse,Gamer Gear Hub,15%,44.57,Settled
+702622,2026-08-24,Magnetic one-touch holders,CardVault Supply,8%,24.46,Settled
+702583,2026-08-25,Anime snack box,Snack Attack Co,15%,49.81,Settled
+702607,2026-08-25,Wireless gaming mouse,Gamer Gear Hub,12%,26.32,Settled
+702637,2026-08-25,Controller charging dock,Pixel Peripherals,10%,49.36,Settled
+702573,2026-08-26,Anime snack box,Snack Attack Co,15%,51.84,Settled
+702577,2026-08-26,Toploaders 100-pack,CardVault Supply,10%,49.49,Settled
+702589,2026-08-26,9-pocket binder,CardVault Supply,8%,36.42,Settled
+702642,2026-08-26,RGB mechanical keyboard,Gamer Gear Hub,15%,33.23,Settled
+702553,2026-08-27,Anime snack box,Snack Attack Co,8%,22.12,Settled
+702575,2026-08-28,Magnetic one-touch holders,CardVault Supply,10%,30.37,Settled
+702614,2026-08-28,Controller charging dock,Pixel Peripherals,12%,20.50,Settled
+702634,2026-08-28,RGB mechanical keyboard,Gamer Gear Hub,8%,42.17,Settled
+702567,2026-08-29,Toploaders 100-pack,CardVault Supply,12%,48.17,Settled
+702574,2026-08-29,9-pocket binder,CardVault Supply,15%,50.03,Settled
+702640,2026-08-29,Anime snack box,Snack Attack Co,15%,14.93,Settled
+702558,2026-08-30,Retro handheld console,Pixel Peripherals,10%,36.09,Settled
+702597,2026-08-30,Headset stand,Gamer Gear Hub,15%,48.42,Settled
+702610,2026-08-30,Retro handheld console,Pixel Peripherals,15%,51.73,Settled
+702638,2026-08-30,Wireless gaming mouse,Gamer Gear Hub,12%,27.02,Settled
+702645,2026-08-30,Anime snack box,Snack Attack Co,15%,43.23,Settled
+702559,2026-08-31,RGB mechanical keyboard,Gamer Gear Hub,12%,24.18,Settled
+702568,2026-08-31,RGB mechanical keyboard,Gamer Gear Hub,8%,39.99,Settled
+702720,2026-09-01,Headset stand,Gamer Gear Hub,8%,25.15,Settled
+702722,2026-09-01,RGB mechanical keyboard,Gamer Gear Hub,15%,47.92,Settled
+702679,2026-09-02,LED desk light bar,Pixel Peripherals,15%,32.13,Settled
+702732,2026-09-02,Retro handheld console,Pixel Peripherals,10%,14.57,Settled
+702647,2026-09-03,RGB mechanical keyboard,Gamer Gear Hub,15%,20.69,Settled
+702652,2026-09-03,Toploaders 100-pack,CardVault Supply,10%,14.06,Settled
+702687,2026-09-03,9-pocket binder,CardVault Supply,8%,17.18,Settled
+702651,2026-09-04,Toploaders 100-pack,CardVault Supply,8%,49.36,Settled
+702736,2026-09-04,Magnetic one-touch holders,CardVault Supply,10%,21.87,Settled
+702663,2026-09-05,9-pocket binder,CardVault Supply,15%,51.65,Settled
+702702,2026-09-05,Retro handheld console,Pixel Peripherals,8%,44.75,Settled
+702654,2026-09-06,Headset stand,Gamer Gear Hub,12%,36.27,Settled
+702662,2026-09-06,Controller charging dock,Pixel Peripherals,10%,27.96,Settled
+702699,2026-09-06,Headset stand,Gamer Gear Hub,12%,18.65,Settled
+702713,2026-09-06,Anime snack box,Snack Attack Co,15%,28.78,Settled
+702721,2026-09-06,Retro handheld console,Pixel Peripherals,8%,19.54,Refunded
+702692,2026-09-07,Wireless gaming mouse,Gamer Gear Hub,10%,24.91,Settled
+702718,2026-09-07,9-pocket binder,CardVault Supply,15%,15.94,Settled
+702664,2026-09-08,Retro handheld console,Pixel Peripherals,8%,37.80,Settled
+702665,2026-09-08,Retro handheld console,Pixel Peripherals,8%,34.86,Settled
+702675,2026-09-08,9-pocket binder,CardVault Supply,15%,40.81,Settled
+702693,2026-09-08,RGB mechanical keyboard,Gamer Gear Hub,8%,31.16,Settled
+702707,2026-09-08,Anime snack box,Snack Attack Co,12%,36.80,Settled
+702717,2026-09-08,Headset stand,Gamer Gear Hub,15%,17.90,Settled
+702729,2026-09-08,9-pocket binder,CardVault Supply,12%,16.98,Settled
+702653,2026-09-09,Headset stand,Gamer Gear Hub,15%,27.28,Settled
+702656,2026-09-09,9-pocket binder,CardVault Supply,15%,20.20,Settled
+702698,2026-09-09,Wireless gaming mouse,Gamer Gear Hub,10%,42.73,Settled
+702703,2026-09-09,Controller charging dock,Pixel Peripherals,10%,17.53,Settled
+702686,2026-09-10,Headset stand,Gamer Gear Hub,15%,31.94,Settled
+702726,2026-09-10,LED desk light bar,Pixel Peripherals,15%,24.76,Settled
+702661,2026-09-11,9-pocket binder,CardVault Supply,12%,50.55,Settled
+702672,2026-09-11,RGB mechanical keyboard,Gamer Gear Hub,15%,25.61,Settled
+702681,2026-09-11,LED desk light bar,Pixel Peripherals,8%,46.14,Settled
+702691,2026-09-11,Wireless gaming mouse,Gamer Gear Hub,10%,44.71,Settled
+702697,2026-09-11,Controller charging dock,Pixel Peripherals,15%,19.65,Settled
+702724,2026-09-11,LED desk light bar,Pixel Peripherals,12%,30.88,Settled
+702655,2026-09-12,Headset stand,Gamer Gear Hub,12%,16.82,Settled
+702677,2026-09-12,LED desk light bar,Pixel Peripherals,12%,50.51,Settled
+702696,2026-09-12,Anime snack box,Snack Attack Co,8%,30.25,Refunded
+702716,2026-09-12,LED desk light bar,Pixel Peripherals,10%,40.88,Settled
+702727,2026-09-12,Anime snack box,Snack Attack Co,8%,47.16,Settled
+702660,2026-09-13,Magnetic one-touch holders,CardVault Supply,10%,16.44,Settled
+702694,2026-09-13,Wireless gaming mouse,Gamer Gear Hub,12%,37.00,Settled
+702709,2026-09-13,9-pocket binder,CardVault Supply,15%,17.31,Settled
+702719,2026-09-13,Wireless gaming mouse,Gamer Gear Hub,10%,16.60,Settled
+702670,2026-09-14,RGB mechanical keyboard,Gamer Gear Hub,12%,25.52,Settled
+702671,2026-09-14,Magnetic one-touch holders,CardVault Supply,15%,42.75,Settled
+702723,2026-09-14,Magnetic one-touch holders,CardVault Supply,15%,17.52,Settled
+702659,2026-09-15,9-pocket binder,CardVault Supply,15%,36.24,Settled
+702711,2026-09-15,LED desk light bar,Pixel Peripherals,8%,44.56,Settled
+702712,2026-09-15,Retro handheld console,Pixel Peripherals,15%,41.14,Settled
+702715,2026-09-15,Headset stand,Gamer Gear Hub,8%,28.17,Settled
+702725,2026-09-15,RGB mechanical keyboard,Gamer Gear Hub,12%,16.56,Settled
+702700,2026-09-16,Headset stand,Gamer Gear Hub,10%,18.77,Settled
+702704,2026-09-16,Retro handheld console,Pixel Peripherals,15%,33.67,Settled
+702735,2026-09-16,Anime snack box,Snack Attack Co,15%,16.59,Settled
+702668,2026-09-17,Magnetic one-touch holders,CardVault Supply,10%,22.98,Settled
+702685,2026-09-17,Anime snack box,Snack Attack Co,12%,21.52,Settled
+702688,2026-09-17,Anime snack box,Snack Attack Co,10%,43.59,Settled
+702733,2026-09-17,RGB mechanical keyboard,Gamer Gear Hub,15%,46.67,Settled
+702667,2026-09-18,LED desk light bar,Pixel Peripherals,8%,23.92,Settled
+702676,2026-09-19,Toploaders 100-pack,CardVault Supply,10%,44.15,Settled
+702730,2026-09-19,Headset stand,Gamer Gear Hub,8%,18.18,Settled
+702648,2026-09-20,LED desk light bar,Pixel Peripherals,15%,27.42,Settled
+702657,2026-09-20,Toploaders 100-pack,CardVault Supply,15%,30.51,Settled
+702666,2026-09-20,Magnetic one-touch holders,CardVault Supply,15%,36.45,Settled
+702674,2026-09-20,LED desk light bar,Pixel Peripherals,12%,16.97,Settled
+702710,2026-09-20,Controller charging dock,Pixel Peripherals,8%,38.94,Settled
+702649,2026-09-21,Wireless gaming mouse,Gamer Gear Hub,15%,33.78,Settled
+702690,2026-09-21,LED desk light bar,Pixel Peripherals,15%,23.19,Settled
+702728,2026-09-21,LED desk light bar,Pixel Peripherals,10%,51.26,Settled
+702680,2026-09-22,RGB mechanical keyboard,Gamer Gear Hub,12%,15.20,Settled
+702706,2026-09-22,Toploaders 100-pack,CardVault Supply,15%,29.03,Settled
+702734,2026-09-22,Headset stand,Gamer Gear Hub,10%,51.29,Settled
+702658,2026-09-23,Anime snack box,Snack Attack Co,8%,29.78,Settled
+702683,2026-09-23,Wireless gaming mouse,Gamer Gear Hub,10%,38.54,Settled
+702684,2026-09-23,Anime snack box,Snack Attack Co,12%,44.79,Settled
+702695,2026-09-23,RGB mechanical keyboard,Gamer Gear Hub,8%,28.09,Settled
+702708,2026-09-23,9-pocket binder,CardVault Supply,8%,36.04,Settled
+702650,2026-09-24,Magnetic one-touch holders,CardVault Supply,10%,50.75,Settled
+702673,2026-09-24,Magnetic one-touch holders,CardVault Supply,12%,27.18,Settled
+702669,2026-09-26,Wireless gaming mouse,Gamer Gear Hub,12%,15.84,Settled
+702678,2026-09-26,Magnetic one-touch holders,CardVault Supply,8%,48.91,Settled
+702701,2026-09-26,LED desk light bar,Pixel Peripherals,12%,24.18,Settled
+702705,2026-09-26,Headset stand,Gamer Gear Hub,10%,44.65,Refunded
+702714,2026-09-26,RGB mechanical keyboard,Gamer Gear Hub,8%,32.36,Settled
+702731,2026-09-26,Retro handheld console,Pixel Peripherals,8%,34.39,Settled
+702682,2026-09-27,Retro handheld console,Pixel Peripherals,15%,27.96,Refunded
+702689,2026-09-27,Anime snack box,Snack Attack Co,10%,32.16,Settled

@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Creator Books</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <span class="logo" aria-hidden="true"></span>
+    <div>
+      <div class="wordmark">CREATOR BOOKS</div>
+      <div class="tag">Taxes and books for content creators</div>
+    </div>
+  </div>
+  <div class="top-actions" id="topActions" hidden>
+    <span class="client" id="clientLabel"></span>
+    <button class="btn ghost" id="newBtn">Load other data</button>
+  </div>
+</header>
+
+<main>
+  <!-- ============ start screen ============ -->
+  <section id="start" class="start">
+    <h1>See what you owe before the IRS does.</h1>
+    <p class="lede">Drop in your payout exports. Creator Books sorts every line, flags what creators usually get wrong,
+      projects your federal tax, and builds a packet your preparer can work from.</p>
+    <div class="start-grid">
+      <div class="card">
+        <h2>Try a sample creator</h2>
+        <p class="muted">Maya Torres is fictional. Her files have realistic problems planted in them.</p>
+        <div id="sampleList" class="sample-list"></div>
+      </div>
+      <label class="card drop" id="drop">
+        <h2>Upload your own files</h2>
+        <p class="muted">CSV exports (TikTok Shop, Creator Rewards, YouTube, PayPal, expenses, gifted products,
+          1099s, estimated payments) plus an optional <code>profile.json</code>. Files stay on this computer.</p>
+        <span class="btn">Choose files</span>
+        <input type="file" id="fileInput" multiple accept=".csv,.json" hidden>
+      </label>
+    </div>
+    <p class="error" id="startError" hidden></p>
+  </section>
+
+  <!-- ============ dashboard ============ -->
+  <section id="dash" hidden>
+    <p class="period" id="periodLine"></p>
+    <div class="warnings" id="warnings"></div>
+    <div class="kpis" id="kpis"></div>
+
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="review" aria-selected="true">Review <span class="count" id="reviewCount"></span></button>
+      <button role="tab" data-tab="projection">Tax projection</button>
+      <button role="tab" data-tab="ledger">Ledger</button>
+      <button role="tab" data-tab="packet">Client packet</button>
+    </nav>
+
+    <!-- review -->
+    <div class="panel" id="tab-review">
+      <div class="filter-row">
+        <div class="seg" id="sevFilter">
+          <button data-sev="all" class="on">All</button>
+          <button data-sev="high">Fix first</button>
+          <button data-sev="medium">Check</button>
+          <button data-sev="low">Minor</button>
+          <button data-sev="info">FYI</button>
+        </div>
+      </div>
+      <div id="flags"></div>
+    </div>
+
+    <!-- projection -->
+    <div class="panel" id="tab-projection" hidden>
+      <div class="two-col">
+        <div>
+          <div class="card">
+            <h3>What if…</h3>
+            <div class="control" id="paceControl">
+              <label for="pace">Income pace for the rest of the year <output id="paceOut">1.0×</output></label>
+              <input type="range" id="pace" min="0" max="3" step="0.1" value="1">
+              <p class="hint">Applies to affiliate, ad, and rewards income from now to Dec 31. 2× means Q4 doubles your usual pace.</p>
+            </div>
+            <div class="control row">
+              <label>Brand deals still to come <input type="number" id="extraIncome" min="0" step="100" value="0"></label>
+              <label>Big purchases still to come <input type="number" id="extraExpenses" min="0" step="100" value="0"></label>
+            </div>
+          </div>
+          <div class="card">
+            <h3>Profile</h3>
+            <div class="control grid2" id="profileForm">
+              <label>Filing status
+                <select data-p="filing_status"><option value="single">Single</option><option value="mfj">Married filing jointly</option></select></label>
+              <label>Home office sq ft <input type="number" data-p="home_office_sqft" min="0" step="10"></label>
+              <label>Last year's total tax <input type="number" data-p="prior_year_total_tax" min="0" step="100"></label>
+              <label>Last year's AGI <input type="number" data-p="prior_year_agi" min="0" step="1000"></label>
+              <label>W-2 wages (full year) <input type="number" data-p="w2_wages" min="0" step="1000"></label>
+              <label>Federal withholding <input type="number" data-p="withholding" min="0" step="100"></label>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="card">
+            <h3>Monthly income and expenses</h3>
+            <div id="chart" class="chart"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="two-col">
+        <div class="card">
+          <h3>How the tax adds up</h3>
+          <table class="num" id="taxWalk"></table>
+          <p class="hint" id="qbiNote"></p>
+        </div>
+        <div class="card">
+          <h3>Quarterly estimated payments</h3>
+          <p class="hint" id="safeHarbor"></p>
+          <table class="num" id="schedule"></table>
+        </div>
+      </div>
+
+      <div class="two-col">
+        <div class="card">
+          <h3>Income and expenses by category</h3>
+          <table class="num" id="lines"></table>
+        </div>
+        <div class="card">
+          <h3>S-corp check</h3>
+          <div class="control">
+            <label for="salary">Salary as a share of profit <output id="salaryOut">40%</output></label>
+            <input type="range" id="salary" min="0.2" max="0.8" step="0.05" value="0.4">
+          </div>
+          <div class="control">
+            <label>Yearly payroll and filing costs <input type="number" id="adminCost" min="0" step="250" value="2500"></label>
+          </div>
+          <div id="scorp"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ledger -->
+    <div class="panel" id="tab-ledger" hidden>
+      <div class="filter-row">
+        <input type="search" id="ledgerSearch" placeholder="Search payee or description">
+        <select id="ledgerKind">
+          <option value="attention">Needs attention</option>
+          <option value="all">Everything</option>
+          <option value="income">Income</option>
+          <option value="expense">Expenses</option>
+          <option value="excluded">Excluded</option>
+        </select>
+        <span class="muted" id="ledgerCount"></span>
+      </div>
+      <div class="table-wrap">
+        <table class="ledger" id="ledger"></table>
+      </div>
+      <button class="btn ghost" id="moreRows" hidden>Show more</button>
+    </div>
+
+    <!-- packet -->
+    <div class="panel" id="tab-packet" hidden>
+      <div class="filter-row">
+        <a class="btn" id="dlPacket">Download packet (.md)</a>
+        <a class="btn ghost" id="dlLedger">Download ledger (.csv)</a>
+        <button class="btn ghost" id="printBtn">Print</button>
+      </div>
+      <article class="card packet" id="packet"></article>
+    </div>
+  </section>
+</main>
+
+<div class="tooltip" id="tip" role="status" hidden></div>
+<footer class="foot">Planning estimate, federal only. Not tax advice; have a tax professional review before filing.</footer>
+
+<script src="/static/marked.min.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "Maya Torres (sample)",
+  "tax_year": 2025,
+  "filing_status": "single",
+  "w2_wages": 0,
+  "withholding": 0,
+  "other_income": 0,
+  "prior_year_total_tax": 2100,
+  "prior_year_agi": 21000,
+  "home_office_sqft": 110,
+  "years_with_losses": 0
+}

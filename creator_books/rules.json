@@ -1,0 +1,133 @@
+{
+  "_about": "Classification rules, applied top to bottom; the first match wins. Edit freely. 'source' limits a rule to one importer; 'field' is counterparty, description, type or any; 'pattern' is a case-insensitive regex.",
+  "source_defaults": {
+    "tiktok_shop": "affiliate_commission",
+    "tiktok_rewards": "platform_bonus",
+    "youtube": "ad_revenue",
+    "gifted": "gifted_product"
+  },
+  "business_name_pattern": "\\b(inc|llc|l\\.l\\.c|co|corp|ltd|games|studios?|brands?|media|agency|labs|group|company|gaming)\\b",
+  "rules": [
+    {
+      "name": "paypal-bank-transfer",
+      "source": "paypal",
+      "field": "type",
+      "pattern": "transfer to bank|withdrawal|bank deposit",
+      "category": "owner_transfer"
+    },
+    {
+      "name": "paypal-contractor-note",
+      "source": "paypal",
+      "field": "description",
+      "pattern": "edit|editor|thumbnail|animation|voice ?over|script",
+      "sign": "outflow",
+      "category": "contractor"
+    },
+    {
+      "name": "paypal-business-payer",
+      "source": "paypal",
+      "field": "counterparty",
+      "pattern": "@business_name",
+      "sign": "inflow",
+      "category": "sponsorship"
+    },
+    {
+      "name": "paypal-sponsorship-note",
+      "source": "paypal",
+      "field": "description",
+      "pattern": "sponsor|campaign|brand deal|integration|promo|shout ?out|ugc",
+      "sign": "inflow",
+      "category": "sponsorship",
+      "review": true
+    },
+    {
+      "name": "paypal-personal-note",
+      "source": "paypal",
+      "field": "description",
+      "pattern": "rent|dinner|tix|tickets|birthday|gas money|pizza|split|concert|lunch money",
+      "category": "personal_transfer"
+    },
+    {
+      "name": "irs-payment",
+      "field": "any",
+      "pattern": "\\birs\\b|us treasury|eftps|estimated tax",
+      "category": "tax_payment"
+    },
+    {
+      "name": "software",
+      "field": "any",
+      "pattern": "adobe|capcut|canva|epidemic sound|artlist|notion|google workspace|vidiq|tubebuddy|descript|streamlabs|dropbox|icloud|openai|claude|anthropic|envato",
+      "category": "software"
+    },
+    {
+      "name": "trading-cards",
+      "field": "any",
+      "pattern": "tcgplayer|pokemon center|booster|elite trainer|\\betb\\b|trading card|card show|\\bpsa\\b|collectr|sealed",
+      "category": "content_inventory"
+    },
+    {
+      "name": "games-for-content",
+      "field": "any",
+      "pattern": "steam|playstation store|nintendo eshop|xbox store|game ?stop",
+      "category": "content_inventory",
+      "review": true
+    },
+    {
+      "name": "phone-internet",
+      "field": "any",
+      "pattern": "verizon|t-mobile|at&t|spectrum|xfinity|comcast|mint mobile|internet|cell plan|phone bill",
+      "category": "phone_internet",
+      "mixed_use": true
+    },
+    {
+      "name": "computers-phones",
+      "field": "any",
+      "pattern": "gaming pc|laptop|macbook|computer|iphone|pixel phone|galaxy s|ipad",
+      "category": "equipment",
+      "mixed_use": true
+    },
+    {
+      "name": "equipment",
+      "field": "any",
+      "pattern": "camera|microphone|\\bmic\\b|ring light|softbox|tripod|elgato|capture card|\\brode\\b|shure|sony|canon|gopro|ssd|monitor|green screen|stream deck",
+      "category": "equipment"
+    },
+    {
+      "name": "meals",
+      "field": "any",
+      "pattern": "restaurant|chipotle|starbucks|doordash|uber eats|grubhub|cafe|coffee|lunch|dinner",
+      "category": "meals"
+    },
+    {
+      "name": "travel",
+      "field": "any",
+      "pattern": "delta|southwest|jetblue|american airlines|airbnb|marriott|hilton|hotel|convention|vidcon|pax |twitchcon",
+      "category": "travel"
+    },
+    {
+      "name": "shipping",
+      "field": "any",
+      "pattern": "usps|ups store|fedex|pirate ship|shipping",
+      "category": "shipping"
+    },
+    {
+      "name": "advertising",
+      "field": "any",
+      "pattern": "tiktok ads|meta ads|facebook ads|google ads|promote",
+      "category": "advertising"
+    },
+    {
+      "name": "office",
+      "field": "any",
+      "pattern": "staples|office depot|printer|\\bink\\b|desk|chair",
+      "category": "office",
+      "review": true
+    },
+    {
+      "name": "streaming-personal",
+      "field": "any",
+      "pattern": "netflix|spotify|hulu|disney\\+|max\\b|crunchyroll|gym|planet fitness|grocery|publix|walmart grocery",
+      "category": "personal"
+    }
+  ]
+}

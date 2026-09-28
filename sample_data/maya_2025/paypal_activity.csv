@@ -1,0 +1,21 @@
+Date,Name,Type,Status,Currency,Gross,Fee,Net,Transaction ID,Note
+2025-01-25,Bank of America,Transfer to Bank,Completed,USD,-1243.37,0.00,-1243.37,PP20251003,
+2025-02-25,Bank of America,Transfer to Bank,Completed,USD,-1389.10,0.00,-1389.10,PP20251004,
+2025-03-25,Bank of America,Transfer to Bank,Completed,USD,-1627.61,0.00,-1627.61,PP20251005,
+2025-04-25,Bank of America,Transfer to Bank,Completed,USD,-1429.39,0.00,-1429.39,PP20251006,
+2025-05-25,Bank of America,Transfer to Bank,Completed,USD,-1162.23,0.00,-1162.23,PP20251007,
+2025-06-25,Bank of America,Transfer to Bank,Completed,USD,-1392.12,0.00,-1392.12,PP20251008,
+2025-07-04,Jordan Lee,Payment Received,Completed,USD,45.00,0.00,45.00,PP20251002,pizza split
+2025-07-25,Bank of America,Transfer to Bank,Completed,USD,-1626.92,0.00,-1626.92,PP20251010,
+2025-07-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251009,video edit
+2025-08-25,Bank of America,Transfer to Bank,Completed,USD,-1006.26,0.00,-1006.26,PP20251012,
+2025-08-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251011,video edit
+2025-09-25,Bank of America,Transfer to Bank,Completed,USD,-1666.51,0.00,-1666.51,PP20251014,
+2025-09-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251013,video edit
+2025-10-06,Pixel Forge Games LLC,Payment Received,Completed,USD,1200.00,-42.37,1157.63,PP20251001,Sponsored integration - October
+2025-10-25,Bank of America,Transfer to Bank,Completed,USD,-1481.92,0.00,-1481.92,PP20251016,
+2025-10-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251015,video edit
+2025-11-25,Bank of America,Transfer to Bank,Completed,USD,-946.53,0.00,-946.53,PP20251018,
+2025-11-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251017,video edit
+2025-12-01,Bank of America,Transfer to Bank,Completed,USD,-954.36,0.00,-954.36,PP20251020,
+2025-12-28,Alex Chen,Payment Sent,Completed,USD,-150.00,0.00,-150.00,PP20251019,video edit
